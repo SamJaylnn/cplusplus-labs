@@ -1,0 +1,1 @@
+StudentScores.o: ../StudentScores.cpp

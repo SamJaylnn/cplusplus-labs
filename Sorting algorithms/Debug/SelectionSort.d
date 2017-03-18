@@ -1,0 +1,10 @@
+SelectionSort.o: ../SelectionSort.cpp ../SelectionSort.h \
+ ../VectorSorter.h ../Sorter.h ../DataGenerator.h
+
+../SelectionSort.h:
+
+../VectorSorter.h:
+
+../Sorter.h:
+
+../DataGenerator.h:

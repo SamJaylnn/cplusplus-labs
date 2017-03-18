@@ -1,0 +1,1 @@
+WidgetReport.o: ../WidgetReport.c++

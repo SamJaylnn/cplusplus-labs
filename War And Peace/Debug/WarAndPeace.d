@@ -1,0 +1,1 @@
+WarAndPeace.o: ../WarAndPeace.cpp
